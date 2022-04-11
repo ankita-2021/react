@@ -1,0 +1,29 @@
+header{
+    display: inline-block;
+    height:100px ;
+    width:95%;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding-left: 25px;
+    background-color: lightgrey;
+    color: black;
+}
+
+.arrow{
+    float: left;
+    width: 40%;
+    color: #000;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.empName{
+    display: inline-block;
+}
+
+.btn{
+    float:right;
+    margin-top: 25px;
+    margin-right: 25px;
+    padding: 10px 10x;
+}

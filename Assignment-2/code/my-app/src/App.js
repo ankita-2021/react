@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-
-
 function App(props) {
  const {employee}=props;
  const myfunc=(label,value)=>{
@@ -27,7 +25,4 @@ return(
 </div>
 )
 }
-
-
-
 export default App;

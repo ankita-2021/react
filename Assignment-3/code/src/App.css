@@ -1,0 +1,34 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+
+.section3{
+    display: flex;
+    height:150px ;
+    width:95% ;
+    border: 2px solid wheat;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding-left: 25px;
+    background-color: lightgrey;
+    color: black;
+}
+
+p{
+    font-weight: lighter;
+    font-size: 25px;
+}
+
+h1{
+    margin-left: 10px;
+    width: 98%;
+}
+
+.arrow{
+    padding-top: 30px;
+    font-size: 50px;
+}
+input{
+    margin-top: 60px;
+}
