@@ -1,0 +1,10 @@
+.section1{
+    height:150px ;
+    width:95% ;
+    border: 2px solid wheat;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding-left: 25px;
+    background-color: lightgrey;
+    color: black;
+}
