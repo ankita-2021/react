@@ -3,6 +3,8 @@
 import React, {useEffect, useState} from 'react';
 import Header from './components/Header.js';
 import Post from './components/Post.js';
+import './index.css';
+
 
 
 const Postview=()=> {

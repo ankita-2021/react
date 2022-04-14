@@ -12,7 +12,9 @@ body {
     monospace;
 } */
 
-.set-container {
+
+
+set-container {
   width: calc(100%-16px);
   height: calc(100%-16px);
   box-sizing: border-box;
@@ -32,10 +34,9 @@ body {
 }
 
 .cam {
-  margin-left: 75%;
-  margin-top: 10px;
-  margin-bottom: 15px;
-} */
+  margin-left: 60%;
+  margin-bottom: 50px; 
+}
 
 .text {
   margin-left: 100px;
@@ -58,10 +59,9 @@ body {
   margin-top: 25px;
 }
 
-.PostImageWraper img {
-  min-height: 150px;
-  width: 100%;
-  margin-left: 15px;
+.Postimagewraper img {
+  height: 100px;
+  width: 300px;
 }
 
 .userdetails {
